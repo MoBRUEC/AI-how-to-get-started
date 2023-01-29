@@ -13,6 +13,7 @@ Some related  reads as follow.
 [On what you want to automate and how](https://www.linkedin.com/posts/mbrueckner_digitaltransformation-automation-artificialintelligence-activity-6795778900845723648-YcXR)
 
 
+
 Want to learn more? Check out my many other articles:
 
 [Advanced Automation using Azure & serverless services](https://medium.com/serverless-and-lowocode-pioneers/using-logic-apps-to-orchestrate-a-complex-video-processing-process-flow-a0ef20237511)
