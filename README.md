@@ -16,7 +16,7 @@ Some related  reads as follow.
 
 Want to learn more? Well, you probably need to integrate some tools and sytems, so why not pick up some integration tricks while you're learning:
 
-[Advanced Automation using Azure & serverless services](https://medium.com/serverless-and-lowocode-pioneers/using-logic-apps-to-orchestrate-a-complex-video-processing-process-flow-a0ef20237511)
+[Integration in a serverless world](https://github.com/MoBRUEC/MoBRUEC/blob/master/azsummit23.md)
 
 And even more reads:
 
