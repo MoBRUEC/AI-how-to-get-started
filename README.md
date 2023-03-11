@@ -6,19 +6,19 @@ Some resources discussing the basics of finding and realizing AI Opportunities
 So you see, interesting times ahead. The main question will be, can you afford not to be part of this (r)evolution?
 Some related  reads as follow.
 
-[Explanations of "AI Opportunities"](https://www.linkedin.com/posts/mbrueckner_ai-business-training-activity-6790732383147565056-cNV6)
+* [Is AI actually "worth it"? - Building a case for **Applied AI**](https://mohammedbrueckner.medium.com/applying-ai-a-business-perspective-38e968118f54)
 
-[On why and how Intelligent Automation adds operational exellence to the ML advancements](https://www.linkedin.com/pulse/intelligent-automation-leveling-playing-field-mohammed-brueckner)
+* [Explanations of "AI Opportunity Mapping Design Sprints" and why you should have them](https://www.linkedin.com/posts/mbrueckner_ai-business-training-activity-6790732383147565056-cNV6)
 
-[On what you want to automate and how](https://www.linkedin.com/posts/mbrueckner_digitaltransformation-automation-artificialintelligence-activity-6795778900845723648-YcXR)
+* [On what you want to automate and how](https://www.linkedin.com/posts/mbrueckner_digitaltransformation-automation-artificialintelligence-activity-6795778900845723648-YcXR)
 
+* [On why and how Intelligent Automation adds operational exellence to the ML advancements](https://www.linkedin.com/pulse/intelligent-automation-leveling-playing-field-mohammed-brueckner)
 
-
-Want to learn more? Check out my many other articles:
+Want to learn more? Well, you probably need to integrate some tools and sytems, so why not pick up some integration tricks while you're learning:
 
 [Advanced Automation using Azure & serverless services](https://medium.com/serverless-and-lowocode-pioneers/using-logic-apps-to-orchestrate-a-complex-video-processing-process-flow-a0ef20237511)
 
-And even more:
+And even more reads:
 
 **LinkedIn** > [LinkedIn Articles about Business & Tech](https://www.linkedin.com/today/author/mbrueckner)
 
